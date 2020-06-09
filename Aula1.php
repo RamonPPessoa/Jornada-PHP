@@ -1,0 +1,3 @@
+<?php
+
+// iniciando a jornada
