@@ -15,7 +15,7 @@ if(isset($_POST["f_nome"]) && ($_POST["f_estado"]))
 else
 {
     echo " Não submetidos";
-}
+
 
 
 ?>
@@ -40,3 +40,11 @@ else
     </form>
 </body>
 </html>
+
+
+
+<?php
+
+}
+
+?>
