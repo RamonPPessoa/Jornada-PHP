@@ -1,15 +1,18 @@
 <?php
 
-$aula;
 
-if(isset($aula))
+
+if(isset($_POST["f_nome"]))
+
+
 {
-    echo "Váriavel definida";
+    $vnome = $_POST["f_nome"];
+    echo "Nome: $vnome<br/>"; 
 
 }
 else
 {
-    echo " Não definida";
+    echo " Não submetidos";
 }
 
 
