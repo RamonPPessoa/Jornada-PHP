@@ -3,7 +3,7 @@
     include "data.php";
 
     echo "</br>";
-    include "menu.php";
+    include "menu.php"; 
 
 ?>
 
