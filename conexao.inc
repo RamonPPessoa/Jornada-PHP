@@ -1,7 +1,7 @@
 <?php
 
  $con =mysqli_connect("localhost","root","");
-mysqli_select_db($con,"tb_cadastro");
+mysqli_select_db($con,"canalfb");
 
 
 ?>
